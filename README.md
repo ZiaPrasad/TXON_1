@@ -83,4 +83,5 @@ Figma, FigJam, GitHub
 ## What's next
 
 - **Week 2:** mini UI style guide and reusable component kit
-- **Week 4:** high-fidelity version and clickable prototype of these screens
+- **Week 3:** landing page
+- **Week 4:** high-fidelity prototype of these screens
