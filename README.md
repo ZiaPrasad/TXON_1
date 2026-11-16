@@ -57,7 +57,7 @@ Flow visual: [`flow/Zingo_Task_Flow.webp`](flow/Zingo_Task_Flow.webp).
 | 10 | Add habit | Bottom sheet for creating a new habit |
 | 11 | Missed day | Gentle recovery screen: "Never miss twice" |
 
-The screen exports will be added under `/screens` when they are available.
+Screen exports: [`screens/`](screens/) — 11 low-fidelity PNG wireframes, one for each screen listed above.
 
 ## Design decisions
 
@@ -78,8 +78,7 @@ Figma, FigJam, GitHub
 - `persona/Zingo_Persona.webp` — persona visual.
 - `flow/Zingo_Task_Flow.webp` — user-flow diagram.
 - `docs/Zingo_Persona_and_Task_Flow.pdf` — combined two-page PDF of the persona and task flow.
-
-The `/screens` PNG exports are not included yet and will be added later.
+- `screens/` — 11 low-fidelity PNG screen exports (390 × 844 px each).
 
 ## What's next
 
