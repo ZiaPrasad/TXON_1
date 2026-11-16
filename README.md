@@ -25,7 +25,7 @@ The goal of this week is to plan structure, layout and flow only, so the wirefra
 
 > "I start strong, but I lose motivation after a week."
 
-Persona visual: [`persona/Zingo_Persona.webp`](persona/Zingo_Persona.webp).
+Persona visual: [`persona/Zingo_Persona.png`](persona/Zingo_Persona.png).
 
 ## Task flow
 
@@ -39,7 +39,7 @@ Persona visual: [`persona/Zingo_Persona.webp`](persona/Zingo_Persona.webp).
 6. Confirmation ("Great job! +10 XP")
 7. Back to Home, then Progress, Rewards or Profile from the tab bar
 
-Flow visual: [`flow/Zingo_Task_Flow.webp`](flow/Zingo_Task_Flow.webp).
+Flow visual: [`flow/Zingo_Task_Flow.png`](flow/Zingo_Task_Flow.png).
 
 ## Screens
 
@@ -75,8 +75,8 @@ Figma, FigJam, GitHub
 
 ## Files included so far
 
-- `persona/Zingo_Persona.webp` — persona visual.
-- `flow/Zingo_Task_Flow.webp` — user-flow diagram.
+- `persona/Zingo_Persona.png` — persona visual.
+- `flow/Zingo_Task_Flow.png` — user-flow diagram.
 - `docs/Zingo_Persona_and_Task_Flow.pdf` — combined two-page PDF of the persona and task flow.
 - `screens/` — 11 low-fidelity PNG screen exports (390 × 844 px each).
 
